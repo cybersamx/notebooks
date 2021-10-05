@@ -3,9 +3,12 @@
 Data science and AI are becoming increasingly important and relevant in the industry. I am not a data scientist nor do I claim to be an expert in data science. This is a project I started to learn, appreciate, and capture some basic concepts in data science and AI in the form of Jupyter Notebooks.
 
 * Basics
-  * [CSV Import](basics/csv-import.ipynb)
+  * [CSV import](basics/csv_import.ipynb)
+* Plot
+  * [Scatter plot](plots/scatter.ipynb)
 * Machine Learning
-  * [Training and Test Datasets](ml/train-test-data.ipynb)
+  * [Training and test datasets](ml/train_test_data.ipynb)
+  * [Simple classification](ml/simple_classifiers.ipynb)
 
 ## Credits
 
