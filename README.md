@@ -9,6 +9,7 @@ Data science and AI are becoming increasingly important and relevant in the indu
 * Machine Learning
   * [Training and test datasets](ml/train_test_data.ipynb)
   * [Simple classification](ml/simple_classifiers.ipynb)
+  * [Perceptron](ml/perceptron.ipynb)
 
 ## Credits
 
